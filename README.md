@@ -26,7 +26,7 @@
 * If they select yes, the game restarts. If they select no, the program is terminated
 ---
 ### Sample Input / Output
-
+<img width="674" height="724" alt="Screenshot 2026-04-27 at 10 02 37 AM" src="https://github.com/user-attachments/assets/388d62b9-06a8-4fed-9daf-d8b83283fd74" />
 ---
 ### Conclusion
 * In conclusion, although it may be simple, this project enabled many skills. My initial approach was a lot simpler than what was necessary, so I had to do a lot of troubleshooting and debugging to implement embedded functions that ensure maximum functionality. The usage of modules, error handling, and input validation further progressed my skills in developing full scale backend systems, which I will carry into my summer internship exploration in Software Engineering
