@@ -25,6 +25,9 @@
 * After the user guesses the number, the attempts are displayed and they are prompted to be able to play again
 * If they select yes, the game restarts. If they select no, the program is terminated
 ---
+### Sample Input / Output
+
+---
 ### Conclusion
 * In conclusion, although it may be simple, this project enabled many skills. My initial approach was a lot simpler than what was necessary, so I had to do a lot of troubleshooting and debugging to implement embedded functions that ensure maximum functionality. The usage of modules, error handling, and input validation further progressed my skills in developing full scale backend systems, which I will carry into my summer internship exploration in Software Engineering
 ---
