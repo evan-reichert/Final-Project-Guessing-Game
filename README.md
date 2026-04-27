@@ -1,5 +1,5 @@
-#### Evan Reichert - Guessing Game
-## 853653, Python Programming, 4/26/26
+## Evan Reichert - Guessing Game
+#### 853653, Python Programming, 4/26/26
 ---
 ### Final Project
 * This project is a number guessing game that utilizes the "random" module
